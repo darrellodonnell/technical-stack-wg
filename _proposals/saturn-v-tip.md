@@ -30,13 +30,40 @@ The following vendors are [activity working on interoperability](https://docs.go
 <font color='cyan'>List the reasons that triggered the proposal.</font>
 
 1. We need to describe an example TIP that is of interest to many in the ToIP Foundation.
-2. As the Sovrin Community transitions under the broader umbrella of the ToIP Foundation, we need a description of the architecture in which the community desires to embrace.   
+2. As portions of the Sovrin Community, focused on governance and standardization, transitions under the broader umbrella of the ToIP Foundation, we need a description of the architecture in which the community desires to embrace.   
 3. We need a methodology that will allow alternative TIPs to be compared to the one most familiar with many in the ToIP Foundation.
 4. We need a forum for the
 [Indy Interop-athon](https://wiki.hyperledger.org/pages/viewpage.action?pageId=36734079) events that are focused on making the network of networks concepts reality of public identity utilities based on Hyperledger Indy.
+5. We need to separate the layers and taking the Sovrin Governance Framework, which is a blend of a 4-Layer framework, and examining the technical underpinnings required allows the ToIP TWG to flesh out the details that are needed for separation.
 
 ### Core Principles
-The stakeholders believe that the proposed technical stack is purpose built to provide the foundational infrastructure necessary to support the [10 Core Principles](https://docs.google.com/document/d/1WqUOqdTBc3JACIlRviJoWJRcJHTNTNzk9_As9v-jwrY/edit#heading=h.ws45zwyr4hfb) that were adopted by the [Sovrin Foundation](http://sovrin.org). As the decentralized identity community evolves into a network of networks model, these principles will help shape the applicability of solutions.
+The stakeholders believe that the proposed technical stack is purpose built to provide the foundational infrastructure necessary to support the [~~10 Core Principles~~](https://docs.google.com/document/d/1WqUOqdTBc3JACIlRviJoWJRcJHTNTNzk9_As9v-jwrY/edit#heading=h.ws45zwyr4hfb) [10 Core Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)that were adopted by the [Sovrin Foundation](http://sovrin.org). As the decentralized identity community evolves into a network of networks model, these principles will help shape the applicability of solutions.
+
+#Driving Forces
+
+While the Saturn V TIP is aimed at Layers 1, 2, and 3 of the ToIP Stack, there are various drivers that have been considered. Each of these is aimed at a human-centric view of digital identity so the technical stack provided by this TIP must support these. 
+
+Kim Cameron's 7 Laws of Identity
+![7 laws by ...](https://www.identityblog.com/wp-content/images/2009/06/7_Laws_of_Identity.jpg)
+
+Sovrin 12 Core Principles:
+
+1. Self-Sovereignty
+2. Guardianship
+3. Openness & Interoperability
+4. Accountability
+5. Sustainability
+6. Transparency
+7. Collective Best Interest
+8. Decentralization by Design
+9. Inclusive by Design
+10. Privacy by Design
+11. Security by Design
+12. Data Protection by Design and Default
+
+The following are Christopher Allen's SSI principles
+[source](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
+
 
 | Principle | Description |
 | --- | --- |
