@@ -37,9 +37,11 @@ The following vendors are [activity working on interoperability](https://docs.go
 5. We need to separate the layers and taking the Sovrin Governance Framework, which is a blend of a 4-Layer framework, and examining the technical underpinnings required allows the ToIP TWG to flesh out the details that are needed for separation.
 
 ### Core Principles
-The stakeholders believe that the proposed technical stack is purpose built to provide the foundational infrastructure necessary to support the [~~10 Core Principles~~](https://docs.google.com/document/d/1WqUOqdTBc3JACIlRviJoWJRcJHTNTNzk9_As9v-jwrY/edit#heading=h.ws45zwyr4hfb) [10 Core Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)that were adopted by the [Sovrin Foundation](http://sovrin.org). As the decentralized identity community evolves into a network of networks model, these principles will help shape the applicability of solutions.
+The stakeholders believe that the proposed technical stack is purpose built to provide the foundational infrastructure necessary to support various implementations of the stack, particularly those that support personal digital identity as identified by Christopher Allen [~~10 Core Principles~~](https://docs.google.com/document/d/1WqUOqdTBc3JACIlRviJoWJRcJHTNTNzk9_As9v-jwrY/edit#heading=h.ws45zwyr4hfb) [10 Core Principles](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html). These same principles guided the initial efforts behind the Sovrin Governance Framework, created by by the [Sovrin Foundation](http://sovrin.org). As the decentralized identity community evolves into a network of networks model, these principles will help shape the applicability of solutions.
 
-#Driving Forces
+This TIP is aimed to provide both personal (people) and non-personal (organizations and things) digital identity. As such the following Core Principles are intended to support the 
+
+# Driving Forces
 
 While the Saturn V TIP is aimed at Layers 1, 2, and 3 of the ToIP Stack, there are various drivers that have been considered. Each of these is aimed at a human-centric view of digital identity so the technical stack provided by this TIP must support these. 
 
